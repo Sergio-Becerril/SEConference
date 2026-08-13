@@ -1,0 +1,8 @@
+# Requirimientos del sistema
+## Requirimientos Funcionales
+RF-01. El sistema permitira registrar asistentes al congreso.
+RF-02. El sistema permitira consultar las actividades disponibles.
+RF-03. El sistema permitira registrar un asistente a la actividad.
+## Requirimientos No Funcionales
+RNF-01. La interfaz debera ser accesible desde un navegador web.
+RNF-02. El sistema debera mantener la información del registro de manera persistente.
