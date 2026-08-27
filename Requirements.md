@@ -8,3 +8,4 @@ RF-05. El sistema permitira registrar ponentes del congreso.
 ## Requirimientos No Funcionales
 RNF-01. La interfaz debera ser accesible desde un navegador web.
 RNF-02. El sistema debera mantener la información del registro de manera persistente.
+RNF-03. Se actualice la base de datos cada media hora.
