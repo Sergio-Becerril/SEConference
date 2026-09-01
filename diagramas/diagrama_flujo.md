@@ -9,9 +9,9 @@ flowchart TD
 
     D -->F[/Mostrar confirmación/]
 
-    C -->|No| E[/Mostrar datos faltantes/]
+    C -->|No| E[Mostrar datos faltantes]
 
     E -->G([Fin])
-    
+
     F --> G
 ```
